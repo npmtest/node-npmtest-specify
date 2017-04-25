@@ -1,6 +1,6 @@
 # npmtest-specify
 
-#### test coverage for  [specify (v1.3.0)](https://github.com/dscape/specify)  [![npm package](https://img.shields.io/npm/v/npmtest-specify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-specify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-specify.svg)](https://travis-ci.org/npmtest/node-npmtest-specify)
+#### basic test coverage for  [specify (v1.3.0)](https://github.com/dscape/specify)  [![npm package](https://img.shields.io/npm/v/npmtest-specify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-specify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-specify.svg)](https://travis-ci.org/npmtest/node-npmtest-specify)
 
 #### bite sized node.js testing
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-specify/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-specify/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-specify/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-specify/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-specify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-specify/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-specify/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-specify/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-specify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-specify/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-specify/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-specify/build/coverage.html/index.html)
 
